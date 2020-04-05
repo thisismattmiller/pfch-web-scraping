@@ -12,7 +12,7 @@ for page_number in total_pages:
 
 	url = 'http://collection.mam.org/search.php?s='
 
-	url = url + str(page_number)
+	url = url + str(item_counter)
 
 	print("Working on... ",url)
 
