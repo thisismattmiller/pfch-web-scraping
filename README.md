@@ -1,2 +1,1 @@
-# pfch-web-scraping
-Resources for Video Lecture for the Programming for Cultural Heritage class at Pratt Information School looking at using regular expressions in python. The resources used in the lecture can be found here: https://github.com/thisismattmiller/p...
+Resources for this lecture: https://youtu.be/5omW1g4DYFU
